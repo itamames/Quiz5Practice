@@ -1,6 +1,6 @@
 Question 1
 
-Write the storage representation for following data.
+Write the storage representation for following data in a linked list.
 
 ![Q1](Question1a.png)
 

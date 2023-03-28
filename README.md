@@ -11,7 +11,9 @@ Adjacency Matrix
 Question 2
 
 Identify the following method and complete it.
+
 ![Q3](Question1d.png)
+
 ![Q2](Question2a.png)
 
 
